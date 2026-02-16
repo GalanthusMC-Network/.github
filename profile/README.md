@@ -12,7 +12,7 @@
 Visita nuestra página web: **[galanthusmc.net](https://galanthusmc.net)**
 
 ### Servidor de Minecraft
-- **Dirección IP**: galanthusmc.net
+- **Dirección IP**: play.galanthusmc.net
 - **Version**: Últimas versiones soportadas
 
 ### Comunidad en Discord
